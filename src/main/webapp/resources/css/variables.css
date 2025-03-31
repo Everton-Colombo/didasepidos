@@ -1,0 +1,11 @@
+:root {
+  --scrollbarBG: #cfd8dc;
+  --thumbBG: #90a4ae;
+  --primary-color: #0284d0;
+  --secondary-color: #28a745;
+  --dark-color: #333;
+  --light-color: #f4f4f4;
+  --medium-color: #ddd;
+
+  --page-top-margin: 5rem;
+}
