@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Everton-Colombo/autoacervus">
-    <img src="src/main/resources/didasepidos_bannergit.png" alt="Logo" width="80" height="80" style="background-color: white;">
+    <img src="src/main/resources/didasepidos_bannergit.png" alt="Logo" height="80" style="background-color: white;">
   </a>
 
   <h3 align="center">didasepidos</h3>
